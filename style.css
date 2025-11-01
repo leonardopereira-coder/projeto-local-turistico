@@ -1,0 +1,118 @@
+* {
+      margin: 0;
+      padding: 0;
+}
+
+#busan {
+      box-sizing: border-box;
+      margin-top: 88px;
+      margin-left: 80px;
+      margin-right: 80px;
+}
+
+
+.linha-principal {
+      font-size: 16px;
+      color: #E1624F;
+      /* text-transform: uppercase;
+      font-family: 'Open Sans'; */
+      margin-bottom: 10px;
+}
+
+h1 {
+      font-size: 36px;
+}
+.img-busan {
+      width: 100%;
+      height: auto;
+      margin-top: 40px;
+      margin-bottom: 24px;
+}
+
+.texto-abaixo-busan {
+      text-align: center;
+      margin-bottom: 40px
+}
+
+#destinos_imperdiveis {
+      box-sizing: border-box;
+      margin-top: 88px;
+      margin-left: 80px;
+      margin-right: 80px;
+}
+
+.descubra-3-destino {
+      font-size: 36px;
+      margin-bottom: 8px;
+}
+
+.texto-abaixo-3destinos {
+      margin-bottom: 64px;
+}
+
+.img-templo-headong {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+}
+
+/* .lista-destinos {
+      margin-bottom: 64px;
+      margin-left: 8; 
+      border-radius: 0cm;
+} */
+
+.texto-templo-haedong {
+      font-size: 28px;
+      margin-bottom: 4px;
+}
+
+.topico-historia {
+      color: #0C51A7;
+      margin-bottom: 48px;
+}
+
+.templo-bomeo-sa {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+}
+
+.texto-templo-beombeo-sa {
+      font-size: 28px;
+      margin-bottom: 4px;
+}
+
+.parque-youngdusan {
+      width: 100%;
+      height: auto;
+      margin-bottom: 20px;
+}
+
+.texto-parque-youngdusan {
+      font-size: 28px;
+      margin-bottom: 4px;
+}
+
+.topico-casais {
+      color: #591B98;
+}
+
+.topico-familias {
+      color: #E5245E;
+}
+
+.topico-orcamento {
+      color: #E95E10;
+      margin-bottom: 80px;
+}
+
+.paragrafo-fechamento {
+      text-align: center;
+      margin-bottom: 80px;
+}
+
+footer {
+      text-align: center;
+       padding-bottom: 48px;
+}
